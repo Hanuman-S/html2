@@ -1,0 +1,16 @@
+html {
+    font-size: 22px
+}
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+a{
+    color:aqua;
+}
+a:visited {
+    color:blue;
+}
+a:hover, a:active {
+    color:cadetblue;
+}
